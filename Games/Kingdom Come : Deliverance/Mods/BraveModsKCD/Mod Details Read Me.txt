@@ -1,0 +1,105 @@
+
+
+
+attack 6.5 = 65.45454545
+slash modifier 1.1 = 72
+stab modifier 1.1 = 72
+smash modifier 0.05 = 3
+
+KCD Mod Balance Thing
+for 6.5 attack
+total max multiplier = around 3
+smash / blunt		= 3
+stab				= 3.5
+slash				= 3.2
+
+
+
+
+
+
+
+
+
+rpg_param.xml
+
+<row rpg_param_key="LockPickingStealthXP" rpg_param_value="800" />
+<row rpg_param_key="LockPickingSuccessXPMulCoef" rpg_param_value="1800" />
+
+
+
+
+
+
+
+
+armor.xml
+<row armor_subtype_id="" armor_type_id="5" brightness="1" clothing2_id="" clothing_id="465c936c-4f80-422d-3684-57f98cc32da5" color="8421504" color_hue="0" color_saturation="1" computer_name="MHOZ-DT" is_underwear="False" item_id="481cfd5b-b646-1c6b-ff58-af749941cf9e" max_status="8000" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="06/09/2017 11:39" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="4" brightness="1" clothing2_id="" clothing_id="434b311a-deea-7027-6747-45d0ff6732b2" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="42414d23-c8dc-7b1a-31e6-00644075feaa" max_status="4700" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="21/08/2017 09:20" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="7" brightness="0.58" clothing2_id="" clothing_id="444a601e-7e38-ef35-9570-b9edc2a03080" color="8421504" color_hue="-0.005556" color_saturation="1.16" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="4afcfba0-8899-4509-b099-c30f58e100b8" max_status="3800" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="21/08/2017 09:08" zone1_brightness="1.88" zone1_hue="-0.016667" zone1_saturation="0.05" zone2_brightness="0.51" zone2_hue="-0.155556" zone2_saturation="0.22" zone3_brightness="1.31" zone3_hue="-0.155556" zone3_saturation="0.22" />
+<row armor_subtype_id="" armor_type_id="4" brightness="1" clothing2_id="" clothing_id="4cfcffb0-9f5d-5f48-ddb3-ebd2de43428b" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="40a2b1d3-f475-a8f3-667a-075486518b8f" max_status="5700" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="21/08/2017 09:15" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="3" brightness="1" clothing2_id="" clothing_id="43d4b559-437e-54e3-5d19-c4c0bbfc0bbf" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="4bef1aa8-1d05-6ecc-7797-083fa321cf80" max_status="7200" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="21/08/2017 09:28" zone1_brightness="0.7" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="7" brightness="1" clothing2_id="" clothing_id="436ac049-21a8-d69b-8aab-c9e497d25680" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="4c828be7-10e9-d339-7492-cf73f5c5ba88" max_status="6000" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="28/08/2017 11:27" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="5" brightness="1" clothing2_id="" clothing_id="4cbbb092-3955-7a93-9cbb-371ebdf042a7" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="44f5058a-a445-887b-d443-32fe726b528c" max_status="5400" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="27/08/2017 16:20" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="5" brightness="1" clothing2_id="" clothing_id="44587179-ef93-533a-1ce6-fd54e9133fb7" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="42c04555-15cb-ac3a-aef4-e377a125aca5" max_status="3400" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="24/08/2017 16:54" zone1_brightness="1" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="7" brightness="0.52" clothing2_id="" clothing_id="44c3b51a-2aee-d48b-d2c0-388881b52abb" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="4572c66d-bdf2-fa90-def9-c6fd3e877ca9" max_status="5700" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="1" superfaction_id="" timestamp="21/08/2017 09:07" zone1_brightness="0.81" zone1_hue="0" zone1_saturation="1" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="5" brightness="1" clothing2_id="" clothing_id="44c177df-9288-423f-077b-001221c540be" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="41a9ea6a-eed1-471c-754a-196d368245a6" max_status="6200" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="12/10/2017 09:26" zone1_brightness="1.19" zone1_hue="0.1" zone1_saturation="2" zone2_brightness="1" zone2_hue="0" zone2_saturation="1" zone3_brightness="1" zone3_hue="0" zone3_saturation="1" />
+<row armor_subtype_id="" armor_type_id="9" brightness="1" clothing2_id="" clothing_id="4d6ec311-a046-a11e-7c20-bfdd610a0bac" color="8421504" color_hue="0" color_saturation="1" computer_name="PFERSTOVA-DT" is_underwear="False" item_id="485e549c-73c9-6caa-2d62-f03de0c20e91" max_status="9600" noise="0" slash_def="4" smash_def="4" stab_def="4" str_req="0" superfaction_id="" timestamp="21/08/2017 09:09" zone1_brightness="1.56" zone1_hue="0.077778" zone1_saturation="2" zone2_brightness="0.02" zone2_hue="0" zone2_saturation="1" zone3_brightness="0" zone3_hue="0" zone3_saturation="1" />
+
+
+
+
+equippable_item.xml
+<row charisma="20" conspicuousness="0" item_id="481cfd5b-b646-1c6b-ff58-af749941cf9e" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="42414d23-c8dc-7b1a-31e6-00644075feaa" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="4afcfba0-8899-4509-b099-c30f58e100b8" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="40a2b1d3-f475-a8f3-667a-075486518b8f" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="4bef1aa8-1d05-6ecc-7797-083fa321cf80" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="4c828be7-10e9-d339-7492-cf73f5c5ba88" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="44f5058a-a445-887b-d443-32fe726b528c" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="42c04555-15cb-ac3a-aef4-e377a125aca5" rpg_buff_weight="0" social_class_id="1" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="4572c66d-bdf2-fa90-def9-c6fd3e877ca9" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="41a9ea6a-eed1-471c-754a-196d368245a6" rpg_buff_weight="0" social_class_id="33" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="485e549c-73c9-6caa-2d62-f03de0c20e91" rpg_buff_weight="0" social_class_id="0" visibility="0" wealth_level="0" />
+
+<row charisma="20" conspicuousness="0" item_id="aca90050-0b70-4ca0-9d29-b94326203c75" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="68a35c34-51db-4f5d-827b-fed5a45ddfcd" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
+<row charisma="20" conspicuousness="0" item_id="d459cb3a-04b5-4de7-b115-35ec17d293ba" rpg_buff_weight="" social_class_id="0" visibility="0" wealth_level="0" />
+
+
+
+
+
+
+melle_weapon.xml
+<row attack="6.5" item_id="c2d79308-ce89-41e4-b07c-8c00f4496370" slash_att_mod="0.05" smash_att_mod="3" stab_att_mod="0.05" />
+<row attack="6.5" item_id="aca90050-0b70-4ca0-9d29-b94326203c75" slash_att_mod="1.5" smash_att_mod="0.5" stab_att_mod="1.5" />
+<row attack="6.5" item_id="68a35c34-51db-4f5d-827b-fed5a45ddfcd" slash_att_mod="0.25" smash_att_mod="2.5" stab_att_mod="0.25" />
+<row attack="6.5" item_id="d459cb3a-04b5-4de7-b115-35ec17d293ba" slash_att_mod="2.5" smash_att_mod="1" stab_att_mod="1" />
+
+
+missile_weapon.xml
+
+
+
+
+pickable_item.xml
+<row entity_script="" item_id="c2d79308-ce89-41e4-b07c-8c00f4496370" material="" model="weapons/war_hammers/warhammer_05.cgf" owner_fading_coef="0.02" price="8190" visibility_coef="1" weight="4.5" />
+
+
+
+
+
+weapon.xml
+<row agi_req="0" defense="10" holster_material="" holster_model="Objects/characters/humans/cloth/sheath_cin.cgf" is_breakable="False" item_id="d459cb3a-04b5-4de7-b115-35ec17d293ba" max_status="100" str_req="12" weapon_class_id="4" weapon_sub_class_id="" />
+
+
+
+
+
+
+
+
+
+
+

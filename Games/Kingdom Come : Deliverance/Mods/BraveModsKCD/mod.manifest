@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+<info>
+<name>BraveMods</name>
+<description>Compilation Of Mods Brave Uses for KCD</description>
+<author>Brave</author>
+<version>1.9.6</version>
+<created_on>05.01.2024</created_on>
+<dependencies>
+</dependencies>
+</info>
+</kcd_mod>
+
